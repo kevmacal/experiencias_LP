@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  5 FEB 2013 23:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  6 FEB 2013 00:17
 entering extended mode
 **C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
 (C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
@@ -196,69 +196,73 @@ File: droid.jpg Graphic file (type jpg)
 Package pdftex.def Info: droid.jpg used on input line 103.
 (pdftex.def)             Requested size: 92.59663pt x 92.59663pt.
 
-<amigableU.jpg, id=33, 205.5178pt x 170.88844pt>
+<amigableU.jpg, id=33, 222.07968pt x 192.72pt>
 File: amigableU.jpg Graphic file (type jpg)
  <use amigableU.jpg>
 Package pdftex.def Info: amigableU.jpg used on input line 103.
-(pdftex.def)             Requested size: 123.31163pt x 102.53384pt.
+(pdftex.def)             Requested size: 133.24883pt x 115.63287pt.
  [6 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/3.jpg> <C:/Users/Marlon/D
 ocuments/GitHub/experiencias_LP/droid.jpg> <C:/Users/Marlon/Documents/GitHub/ex
-periencias_LP/amigableU.jpg>] <PPrincipal.jpg, id=37, 180.675pt x 240.9pt>
+periencias_LP/amigableU.jpg>] <PPrincipal.jpg, id=37, 188.20313pt x 248.42813pt
+>
 File: PPrincipal.jpg Graphic file (type jpg)
 
 <use PPrincipal.jpg>
 Package pdftex.def Info: PPrincipal.jpg used on input line 118.
-(pdftex.def)             Requested size: 126.47162pt x 168.62883pt.
- <create1.jpg, id=38, 180.675pt x 240.9pt>
+(pdftex.def)             Requested size: 131.74127pt x 173.8985pt.
+ <create1.jpg, id=38, 188.20313pt x 248.42813pt>
 File: create1.jpg Graphic file (type jpg)
 
 <use create1.jpg>
 Package pdftex.def Info: create1.jpg used on input line 125.
-(pdftex.def)             Requested size: 126.47162pt x 168.62883pt.
- <create2.jpg, id=39, 180.675pt x 240.9pt>
+(pdftex.def)             Requested size: 122.33057pt x 161.47636pt.
+ <create2.jpg, id=39, 188.20313pt x 248.42813pt>
 File: create2.jpg Graphic file (type jpg)
- <use create2.jpg>
-Package pdftex.def Info: create2.jpg used on input line 126.
-(pdftex.def)             Requested size: 126.47162pt x 168.62883pt.
 
-[7 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/PPrincipal.jpg> <C:/Users/
-Marlon/Documents/GitHub/experiencias_LP/create1.jpg> <C:/Users/Marlon/Documents
-/GitHub/experiencias_LP/create2.jpg>]
-<MenuTareas1.jpg, id=44, 180.675pt x 240.9pt>
+<use create2.jpg>
+Package pdftex.def Info: create2.jpg used on input line 126.
+(pdftex.def)             Requested size: 122.33057pt x 161.47636pt.
+ [7 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/PPrincipal.jpg> <C:/Users
+/Marlon/Documents/GitHub/experiencias_LP/create1.jpg> <C:/Users/Marlon/Document
+s/GitHub/experiencias_LP/create2.jpg>]
+<MenuTareas1.jpg, id=44, 188.20313pt x 248.42813pt>
 File: MenuTareas1.jpg Graphic file (type jpg)
  <use MenuTareas1.jpg>
 Package pdftex.def Info: MenuTareas1.jpg used on input line 140.
-(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+(pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-<MenuTareas2.jpg, id=45, 180.675pt x 240.9pt>
+<MenuTareas2.jpg, id=45, 188.20313pt x 248.42813pt>
 File: MenuTareas2.jpg Graphic file (type jpg)
  <use MenuTareas2.jpg>
 Package pdftex.def Info: MenuTareas2.jpg used on input line 141.
-(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
- [8 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/MenuTareas1.jpg> <C:/User
-s/Marlon/Documents/GitHub/experiencias_LP/MenuTareas2.jpg>]
+(pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
+
+[8 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/MenuTareas1.jpg> <C:/Users
+/Marlon/Documents/GitHub/experiencias_LP/MenuTareas2.jpg>]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
 
-<NuevaTarea1.jpg, id=49, 180.675pt x 240.9pt>
+<NuevaTarea1.jpg, id=49, 188.20313pt x 248.42813pt>
 File: NuevaTarea1.jpg Graphic file (type jpg)
  <use NuevaTarea1.jpg>
-Package pdftex.def Info: NuevaTarea1.jpg used on input line 153.
-(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+Package pdftex.def Info: NuevaTarea1.jpg used on input line 154.
+(pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-<NuevaTarea2.jpg, id=50, 180.675pt x 240.9pt>
+<NuevaTarea2.jpg, id=50, 188.20313pt x 248.42813pt>
 File: NuevaTarea2.jpg Graphic file (type jpg)
  <use NuevaTarea2.jpg>
-Package pdftex.def Info: NuevaTarea2.jpg used on input line 154.
-(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
- [9 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea1.jpg> <C:/User
-s/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea2.jpg>]
-<Programar1.jpg, id=54, 180.675pt x 240.9pt>
+Package pdftex.def Info: NuevaTarea2.jpg used on input line 155.
+(pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
+
+[9 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea1.jpg> <C:/Users
+/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea2.jpg>]
+<Programar1.jpg, id=54, 188.20313pt x 248.42813pt>
 File: Programar1.jpg Graphic file (type jpg)
  <use Programar1.jpg>
-Package pdftex.def Info: Programar1.jpg used on input line 164.
-(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
- [10 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Programar1.jpg>] [11]
+Package pdftex.def Info: Programar1.jpg used on input line 165.
+(pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
+
+[10 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Programar1.jpg>] [11]
 (C:\Users\Marlon\Documents\GitHub\experiencias_LP\trabFinal.aux) )
 (\end occurred inside a group at level 1)
 
@@ -278,7 +282,7 @@ x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on trabFinal.pdf (11 pages, 423188 bytes).
+Output written on trabFinal.pdf (11 pages, 446319 bytes).
 PDF statistics:
  81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
