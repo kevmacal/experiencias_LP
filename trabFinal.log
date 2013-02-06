@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  5 FEB 2013 20:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  5 FEB 2013 21:07
 entering extended mode
 **C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
 (C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
@@ -151,63 +151,89 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
 )
 \tf@toc=\write3
- [2] [3]
-<bosquejoI1.jpg, id=19, 584.93532pt x 595.47469pt>
+ [2]
+<logo.jpg, id=15, 240.9pt x 121.45375pt>
+File: logo.jpg Graphic file (type jpg)
+ <use logo.jpg>
+Package pdftex.def Info: logo.jpg used on input line 42.
+(pdftex.def)             Requested size: 168.62883pt x 85.01703pt.
+ [3 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/logo.jpg>]
+<bosquejoI1.jpg, id=20, 584.93532pt x 595.47469pt>
 File: bosquejoI1.jpg Graphic file (type jpg)
  <use bosquejoI1.jpg>
-Package pdftex.def Info: bosquejoI1.jpg used on input line 60.
+Package pdftex.def Info: bosquejoI1.jpg used on input line 64.
 (pdftex.def)             Requested size: 204.73042pt x 208.41925pt.
 
 [4 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/bosquejoI1.jpg>]
-<Twin1.jpg, id=24, 301.125pt x 432.86719pt>
+<Twin1.jpg, id=25, 301.125pt x 432.86719pt>
 File: Twin1.jpg Graphic file (type jpg)
  <use Twin1.jpg>
-Package pdftex.def Info: Twin1.jpg used on input line 73.
+Package pdftex.def Info: Twin1.jpg used on input line 77.
 (pdftex.def)             Requested size: 150.56212pt x 216.43306pt.
 
-<Twin2.jpg, id=25, 225.84375pt x 289.83281pt>
+<Twin2.jpg, id=26, 225.84375pt x 289.83281pt>
 File: Twin2.jpg Graphic file (type jpg)
  <use Twin2.jpg>
-Package pdftex.def Info: Twin2.jpg used on input line 74.
+Package pdftex.def Info: Twin2.jpg used on input line 78.
 (pdftex.def)             Requested size: 169.38239pt x 217.37407pt.
 
-<Twin3.jpg, id=26, 225.84375pt x 335.00156pt>
+<Twin3.jpg, id=27, 225.84375pt x 335.00156pt>
 File: Twin3.jpg Graphic file (type jpg)
  <use Twin3.jpg>
-Package pdftex.def Info: Twin3.jpg used on input line 76.
+Package pdftex.def Info: Twin3.jpg used on input line 80.
 (pdftex.def)             Requested size: 135.50728pt x 201.00247pt.
  [5 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Twin1.jpg> <C:/Users/Marl
 on/Documents/GitHub/experiencias_LP/Twin2.jpg> <C:/Users/Marlon/Documents/GitHu
-b/experiencias_LP/Twin3.jpg>] <3.jpg, id=30, 225.84375pt x 153.57375pt>
+b/experiencias_LP/Twin3.jpg>] <3.jpg, id=31, 225.84375pt x 153.57375pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
-Package pdftex.def Info: 3.jpg used on input line 99.
+Package pdftex.def Info: 3.jpg used on input line 103.
 (pdftex.def)             Requested size: 135.50728pt x 92.14494pt.
 
-<droid.jpg, id=31, 154.32657pt x 154.32657pt>
+<droid.jpg, id=32, 154.32657pt x 154.32657pt>
 File: droid.jpg Graphic file (type jpg)
  <use droid.jpg>
-Package pdftex.def Info: droid.jpg used on input line 99.
+Package pdftex.def Info: droid.jpg used on input line 103.
 (pdftex.def)             Requested size: 92.59663pt x 92.59663pt.
 
-<amigableU.jpg, id=32, 205.5178pt x 170.88844pt>
+<amigableU.jpg, id=33, 205.5178pt x 170.88844pt>
 File: amigableU.jpg Graphic file (type jpg)
  <use amigableU.jpg>
-Package pdftex.def Info: amigableU.jpg used on input line 99.
+Package pdftex.def Info: amigableU.jpg used on input line 103.
 (pdftex.def)             Requested size: 123.31163pt x 102.53384pt.
  [6 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/3.jpg> <C:/Users/Marlon/D
 ocuments/GitHub/experiencias_LP/droid.jpg> <C:/Users/Marlon/Documents/GitHub/ex
-periencias_LP/amigableU.jpg>] [7]
+periencias_LP/amigableU.jpg>] <PPrincipal.jpg, id=37, 180.675pt x 240.9pt>
+File: PPrincipal.jpg Graphic file (type jpg)
+
+<use PPrincipal.jpg>
+Package pdftex.def Info: PPrincipal.jpg used on input line 118.
+(pdftex.def)             Requested size: 126.47162pt x 168.62883pt.
+ <create1.jpg, id=38, 180.675pt x 240.9pt>
+File: create1.jpg Graphic file (type jpg)
+
+<use create1.jpg>
+Package pdftex.def Info: create1.jpg used on input line 125.
+(pdftex.def)             Requested size: 126.47162pt x 168.62883pt.
+ <create2.jpg, id=39, 180.675pt x 240.9pt>
+File: create2.jpg Graphic file (type jpg)
+ <use create2.jpg>
+Package pdftex.def Info: create2.jpg used on input line 126.
+(pdftex.def)             Requested size: 126.47162pt x 168.62883pt.
+
+[7 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/PPrincipal.jpg> <C:/Users/
+Marlon/Documents/GitHub/experiencias_LP/create1.jpg> <C:/Users/Marlon/Documents
+/GitHub/experiencias_LP/create2.jpg>]
 (C:\Users\Marlon\Documents\GitHub\experiencias_LP\trabFinal.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 16 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2321 strings out of 494045
- 29474 string characters out of 3148383
+ 2341 strings out of 494045
+ 29770 string characters out of 3148383
  92061 words of memory out of 3000000
- 5625 multiletter control sequences out of 15000+200000
+ 5641 multiletter control sequences out of 15000+200000
  7601 words of font info for 27 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,5n,35p,415b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -217,9 +243,9 @@ x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on trabFinal.pdf (7 pages, 285447 bytes).
+Output written on trabFinal.pdf (7 pages, 357984 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 

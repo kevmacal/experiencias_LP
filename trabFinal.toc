@@ -8,3 +8,4 @@
 \contentsline {subsection}{\numberline {2.1}Descripci\'on General}{6}
 \contentsline {subsection}{\numberline {2.2}Funcionamiento(Manual de Usuario)}{7}
 \contentsline {subsubsection}{\numberline {2.2.1}Pantalla Principal}{7}
+\contentsline {subsubsection}{\numberline {2.2.2}Creaci\'on de Twin}{7}
