@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  5 FEB 2013 21:07
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  5 FEB 2013 22:41
 entering extended mode
 **C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
 (C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
@@ -224,16 +224,51 @@ Package pdftex.def Info: create2.jpg used on input line 126.
 [7 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/PPrincipal.jpg> <C:/Users/
 Marlon/Documents/GitHub/experiencias_LP/create1.jpg> <C:/Users/Marlon/Documents
 /GitHub/experiencias_LP/create2.jpg>]
+<MenuTareas1.jpg, id=44, 180.675pt x 240.9pt>
+File: MenuTareas1.jpg Graphic file (type jpg)
+ <use MenuTareas1.jpg>
+Package pdftex.def Info: MenuTareas1.jpg used on input line 140.
+(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+
+<MenuTareas2.jpg, id=45, 180.675pt x 240.9pt>
+File: MenuTareas2.jpg Graphic file (type jpg)
+ <use MenuTareas2.jpg>
+Package pdftex.def Info: MenuTareas2.jpg used on input line 141.
+(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+ [8 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/MenuTareas1.jpg> <C:/User
+s/Marlon/Documents/GitHub/experiencias_LP/MenuTareas2.jpg>]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ­ in font cmr10!
+
+<NuevaTarea1.jpg, id=49, 180.675pt x 240.9pt>
+File: NuevaTarea1.jpg Graphic file (type jpg)
+ <use NuevaTarea1.jpg>
+Package pdftex.def Info: NuevaTarea1.jpg used on input line 153.
+(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+
+<NuevaTarea2.jpg, id=50, 180.675pt x 240.9pt>
+File: NuevaTarea2.jpg Graphic file (type jpg)
+ <use NuevaTarea2.jpg>
+Package pdftex.def Info: NuevaTarea2.jpg used on input line 154.
+(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+ [9 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea1.jpg> <C:/User
+s/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea2.jpg>]
+<Programar1.jpg, id=54, 180.675pt x 240.9pt>
+File: Programar1.jpg Graphic file (type jpg)
+ <use Programar1.jpg>
+Package pdftex.def Info: Programar1.jpg used on input line 164.
+(pdftex.def)             Requested size: 144.54018pt x 192.72025pt.
+ [10 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Programar1.jpg>] [11]
 (C:\Users\Marlon\Documents\GitHub\experiencias_LP\trabFinal.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 16 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2341 strings out of 494045
- 29770 string characters out of 3148383
+ 2366 strings out of 494045
+ 30235 string characters out of 3148383
  92061 words of memory out of 3000000
- 5641 multiletter control sequences out of 15000+200000
+ 5661 multiletter control sequences out of 15000+200000
  7601 words of font info for 27 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,5n,35p,415b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -243,9 +278,9 @@ x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on trabFinal.pdf (7 pages, 357984 bytes).
+Output written on trabFinal.pdf (11 pages, 421475 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
