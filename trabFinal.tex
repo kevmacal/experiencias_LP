@@ -204,8 +204,124 @@ Con todo esto elementsBalls es un juego bastante interesante, con interacci\'on 
 \end{center}
 
 
+%------------------------------------------------------------------------------------------%
+\newpage
+\begin{flushleft}
+\subsection{Introducci\'on}
+
+\normalsize
+elementsBalls es una aplicaci\'on de tipo juego para computadora, el cual propone algo diferente al usuario, un juego sencillo pero con las caracteristicas necesarias para convertirse en un juego completo al punto de convertirse en un favorito para el usuario.\\
+Los componentes que tiene son:\\
+\begin{itemize}
+\item{}\textbf{Idea original}, la cual surgi\'o luego de un largo tiempo de pensar y dar vueltas en torno a los requerimientos del proyecto.
+\item{}\textbf{Sencillo de entender}, porque el juego en realidad es tan sencillo, solo una pelota que debe llegar a una meta.
+\item{}\textbf{Con diversas opciones}, esto evita la monoton\'ia, porque el nombre del juego es elements, que esta en plural, con esto nos indica que no solo ser\'a una pelota comun y corriente la que llegar\'a a la meta.
+\item{}\textbf{Es un reto}, debido a que tenemos un tiempo l\'imite para completar la mayor cantidad de niveles.
+\item{}\textbf{Permite la competencia}, podemos comparar y competir con nuestros amigos, desafiandonos a superar la cantidad de niveles de ellos en el mismo tiempo.
+\end{itemize}
+
 \end{flushleft}
 
+%------------------------------------------------------------------------------------------%
+\newpage
+\subsection{Manual del Juego}
+En esta seccion no hay mucho de que hablar, porque es bastante sencillo de entender, pero se expondr\'a de la forma mas amplia acerca del juego.\\
+\begin{center}
+\includegraphics[scale=0.7]{newMain}
+\end{center}
+La primera vez que entramos escuchamos la grabaci\'on que nos indica como entrar a las tres opciones de la pantalla inicial, aunque tampoco es d\'ificil de entender porque tambi\'en se muestra gr\'aficamente
+\vspace{0.3in}
+\begin{itemize}
+\item{}Presionando ``enter" pasaremos a \textbf{Jugar}, esto es un juego nuevo.
+\item{}Presionando ``a"\ iremos a un menu que nos indicar\'a la \textbf{Ayuda y Elementos}.
+\item{}Presionando ``q" vamos a \textbf{Salir} del juego.
+\end{itemize}
+
+%------------------------------------------------------------------------------------------%
+\newpage
+\subsubsection{Jugar}
+La siguiente imagen muestra una probable forma de uno de los niveles al empezar un juego, la raz\'on por la cual es probable es porque no se va a dar el caso de que se vean iguales, porque la generaci\'on de los obst\'aculos y del tama\~no y tipo de obst\'aculo es totalmente aleatorio.\\
+Se puede observar en la parte baja una pelota, en este caso del tipo fuego y obst\'aculos rectangulares de diversos tipos, mientras que al principio del nivel escuchamos la pista que nos da para avanzar al siguiente nivel, que en este caso fue ``Izquierda"\ esto quiere decir que la salida estar\'a a la izquierda.
+\begin{center}
+\includegraphics[scale=0.6]{jugar1}
+\end{center}
+\vspace{0.2in}Con las direccionales ubicamos la pelota hacia la izquierda y con la barra espaciadora la lanzamos.\\
+Algo que nos puede ser \'util es conocer que podemos darle direcci\'on a la pelota, esto se logra con las direccionales, con la de arriba la pelota tendr\'a cierta inclinaci\'on hacia la derecha, mientras que con la de abajo se dar\'a hacia la izquierda.5
+
+%------------------------------------------------------------------------------------------%
+\newpage
+Finalmente como vemos en la figura, la pelota ha sido lanzada, ha cambiado un poco su color porque hizo uso de su efecto, con el cual quem\'o el obst\'aculo para poder pasar, pero se apag\'o el fuego, eso quiere decir que us\'o su efecto.\\
+Si no se lleg\'o a la meta al primer intento se puede volver a intentar, con lo \'unico presente que se ha consumido algo del tiempo, la pelota al salir estar\'a como nueva, con sus efectos sin utilizar.
+\begin{center}
+\includegraphics[scale=0.4]{jugar2}
+\end{center}
+
+A la imagen se le agreg\'o la meta, para que se pueda visualizar que se est\'a llegando y a donde se deber\'ia llegar.\\\vspace{0.1in}
+\textbf{Juego Finalizado}\\
+Al terminar el tiempo se ve una pantalla que nos indica hasta que nivel hemos llegado en un minuto que es el tiempo l\'imite que da el juego.
+\begin{center}
+\includegraphics[scale=0.4]{jugar3}
+\end{center}
+
+%------------------------------------------------------------------------------------------%
+\newpage
+\subsubsection{Ayuda y Elementos}
+Al principio escuchamos la grabaci\'on que nos dice el objetivo del juego.\\
+En la imagen veremos las diferentes imagenes que representan a una pelota con un elemento diferente y as\'i mismo una letra que la identifica, casualmente estas letras est\'an todas juntas y esto es porque as\'i como en la ayuda podemos escucharla con ese tecla, en el juego la llamamos para utilizarla con las mismas teclas.
+\begin{center}
+\includegraphics[scale=0.7]{ayudaEle}
+\end{center}
+
+%------------------------------------------------------------------------------------------%
+\newpage
+Ahora esto es lo que hace cada elemento junto est\'a la letra con la cual es llamado.\\
+Aquellos obst\'aculos que no se ven nombrados, quiere decir que seguir\'an siendo obst\'aculos para ese elemento y har\'an rebotar a la pelota.
+\begin{itemize}
+\item{}\textbf{D-Dark:} Pasa sin problemas los obst\'aculos de su mismo tipo y los de tipo agua, destruye los de tipo tierra.
+\item{}\textbf{F-Fire:} Pasa sin problemas los obst\'aculos de su mismo tipo, su fuego le permite atravesar cualquier otro tipo de obst\'aculo y queda apagado perdiendo su fuego. Si el obst\'aculo al que se encuentra fuese de agua, el fuego se apagar\'a y adem\'as rebotar\'a.
+\item{}\textbf{G-Ligth:} Pasa sin problemas los obst\'aculos de su mismo tipo y los de tipo fuego, elimina los obst\'aculos de tipo planta.
+\item{}\textbf{E-Leaf:} Pasa sin problemas los obst\'aculos de su mismo tipo y los de tipo oscuridad, puede eliminar los obst\'aculos de tipo planta, la desventaja que tiene es que es ligeramente mas lento.
+\item{}\textbf{R-Earth:} Pasa sin problemas los obst\'aculos de su mismo tipo, de hecho puede destruir cualquier obst\'aculo con la excepci\'on de los de tipo luz, porque la tierra es un elemento que pertenece a su dominio. Tiene la desventaja de ser bastante lento, el m\'as lento de los elementos.
+\item{}\textbf{T-Water:} Pasa sin problemas los obst\'aculos de su mismo tipo adem\'as de ``apagar" los del tipo fuego. Es el mas veloz de los elementos.
+\end{itemize}
+\end{flushleft}
+
+%------------------------------------------------------------------------------------------%
+\newpage
+\begin{flushleft}
+\subsubsection{Salir}
+\begin{center}
+\includegraphics[scale=0.7]{salir1}
+\end{center}
+Esta es la pantalla que vemos al presionar ``q"\ o al dar clic en la ``x" de salir que tiene la ventana.\\
+En esta pantalla vemos el nombre del juego y algo similar a cr\'editos, porque indican el nombre del desarrollador y el a\~no de cuando fue desarrollado.
+
+%------------------------------------------------------------------------------------------%
+\newpage
+\subsection{Estado Actual}
+En el link de github que se muestra a continuacion:\\\vspace{0.1in}\hspace{0.5in}https://github.com/kevmacal/elementsBalls.git\\\vspace{0.1in}
+Encontraremos un documento de texto que nos dice el estado actual del juego, las modificaciones que se dar\'an en un futuro, adem\'as de las que ya se han dado.\\
+Tambi\'en encontraremos la versi\'on liberada actual del juego. Para este d\'ia solamente se tiene como versi\'on liberada un demo que es el ejecutable del juego, pero una versi\'on que a\'un est\'a pasando pruebas hasta que llegue a ser mejorada y poder liberar una primera versi\'on.\\\vspace{0.1in}
+Novedades: Documento que especificar\'a las novedades de la versi\'on actual y as\'i mismo permitir\'a conocer los futuros planes
+para el mejoramiento del juego elements Balls.
+
+%------------------------------------------------------------------------------------------%
+\newpage
+\subsection{Conclusiones}
+Se ha llegado a un buen trabajo, un juego que tiene muchas buenas cualidades y que puede ser mejorado. Este trabajo esta en esa misma etapa, el lenguaje que se ha utilizado hizo posible que se complete hasta el estado que esta, pero se puede mejorar con el mismo lenguaje.\\
+Este proyecto fue realizado en su totalidad por un solo desarrollador, por lo tanto las experiencias generales que se dar\'a una visi\'on general del lenguaje, para dejar algo mas espec\'ifico que ser\'ia descrita en las experiencias personales.
+\subsubsection{Experiencias Generales}
+Al igual que todo trabajo en este se tuvo que realizar un duro trabajo de investigaci\'on, previo al momento de programar, porque el esquema era orientado a objetos, que es algo que si exist\'ia el conocimiento previo, pero el lenguaje era algo totalmente nuevo.\\
+El trabajo se llego a hacer un poco largo, porque al principio resultaba complicado, por esta raz\'on pasaba el tiempo sin mucho progreso.
+Algo bastante bueno de python es que es muy sencillo de entender, por este motivo una vez que se pod\'ia entender hacia donde se quer\'ia llegar y se comprend\'ia como era la programaci\'on en python, el trabajo se hizo mas ligero y entretenido.\\
+
+\subsubsection{Experiencias Personales}
+Personalmente puedo decir que trabajar en Python ha sido una grata experiencia, ha sido algo bastante bueno aprender algo nuevo y pude notar que python es un lenguaje bastante bueno porque me daba bastante flexibilidad, facilitaba mucho el poder declarar las variables sin tener que especificar de que tipo era, solamente ten\'ia que ponerle un nombre bastante l\'ogico y que facilmente se asocie a lo que representaba y as\'i de f\'acil ya estaba lista la variable para usarse.\\\vspace{0.1in}
+Entre lo que me gust\'o de python se puede resaltar la facilidad que presta pygame para llamar sonidos, poner a reproducir un sonido era tan sencillo, era como poner ``play" por un lado y para detenerlo ``stop" por otro. El manejo de eventos de python lo ten\'ia en una lista, se la recorr\'ia y as\'i facilmente pod\'ia encontrar lo que  iba haciendo con el teclado, como por ejemplo que tecla hab\'ia sido presionada.\\\vspace{0.1in}
+Pero no me gustaba que cuando ten\'ia alg\'un error solo se ca\'ia el programa cuando en la ejecuci\'on entrabamos al error, de modo que si exisit\'ia alg\'un error en una parte que no se entraba mucho, tomar\'ia mucho tiempo en que sea descubierto. En cuanto a error me refiero a errores que se dieron en pruebas; en el momento de trabajar en el proyecto no pas\'e por eso, pero, eso me hizo demorar m\'as en las pruebas.
 
 
+
+
+\end{flushleft}
 \end{document}
