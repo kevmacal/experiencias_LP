@@ -14,3 +14,5 @@
 \contentsline {subsubsection}{\numberline {1.4.5}Programar}{10}
 \contentsline {subsection}{\numberline {1.5}Conclusiones}{11}
 \contentsline {subsubsection}{\numberline {1.5.1}Experiencias Generales}{11}
+\contentsline {subsubsection}{\numberline {1.5.2}Experiencias Personales}{11}
+\contentsline {section}{\numberline {2}Python}{13}
