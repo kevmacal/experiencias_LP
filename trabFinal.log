@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  7 FEB 2013 05:38
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.10.12)  7 FEB 2013 23:00
 entering extended mode
 **C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
 (C:/Users/Marlon/Documents/GitHub/experiencias_LP/trabFinal.tex
@@ -152,201 +152,220 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [2])
 \tf@toc=\write3
  [3]
-<logo.jpg, id=18, 240.9pt x 121.45375pt>
+[4] [5]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+ [6] <logo.jpg, id=28, 240.9pt x 121.45375pt>
 File: logo.jpg Graphic file (type jpg)
  <use logo.jpg>
-Package pdftex.def Info: logo.jpg used on input line 42.
+Package pdftex.def Info: logo.jpg used on input line 69.
 (pdftex.def)             Requested size: 120.44969pt x 60.72672pt.
 
-<logAndroid.jpg, id=19, 279.29344pt x 292.84406pt>
+<logAndroid.jpg, id=29, 279.29344pt x 292.84406pt>
 File: logAndroid.jpg Graphic file (type jpg)
  <use logAndroid.jpg>
-Package pdftex.def Info: logAndroid.jpg used on input line 44.
+Package pdftex.def Info: logAndroid.jpg used on input line 71.
 (pdftex.def)             Requested size: 55.8577pt x 58.56776pt.
 
-[4 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/logo.jpg> <C:/Users/Marlon
+[7 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/logo.jpg> <C:/Users/Marlon
 /Documents/GitHub/experiencias_LP/logAndroid.jpg>]
-<bosquejoI1.jpg, id=24, 584.93532pt x 595.47469pt>
+<bosquejoI1.jpg, id=35, 584.93532pt x 595.47469pt>
 File: bosquejoI1.jpg Graphic file (type jpg)
  <use bosquejoI1.jpg>
-Package pdftex.def Info: bosquejoI1.jpg used on input line 66.
+Package pdftex.def Info: bosquejoI1.jpg used on input line 93.
 (pdftex.def)             Requested size: 204.73042pt x 208.41925pt.
 
-[5 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/bosquejoI1.jpg>]
-<Twin1.jpg, id=29, 301.125pt x 432.86719pt>
+[8 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/bosquejoI1.jpg>]
+<Twin1.jpg, id=39, 301.125pt x 432.86719pt>
 File: Twin1.jpg Graphic file (type jpg)
  <use Twin1.jpg>
-Package pdftex.def Info: Twin1.jpg used on input line 79.
+Package pdftex.def Info: Twin1.jpg used on input line 106.
 (pdftex.def)             Requested size: 150.56212pt x 216.43306pt.
 
-<Twin2.jpg, id=30, 225.84375pt x 289.83281pt>
+<Twin2.jpg, id=40, 225.84375pt x 289.83281pt>
 File: Twin2.jpg Graphic file (type jpg)
  <use Twin2.jpg>
-Package pdftex.def Info: Twin2.jpg used on input line 80.
+Package pdftex.def Info: Twin2.jpg used on input line 107.
 (pdftex.def)             Requested size: 169.38239pt x 217.37407pt.
 
-<Twin3.jpg, id=31, 225.84375pt x 335.00156pt>
+<Twin3.jpg, id=41, 225.84375pt x 335.00156pt>
 File: Twin3.jpg Graphic file (type jpg)
  <use Twin3.jpg>
-Package pdftex.def Info: Twin3.jpg used on input line 82.
+Package pdftex.def Info: Twin3.jpg used on input line 109.
 (pdftex.def)             Requested size: 135.50728pt x 201.00247pt.
- [6 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Twin1.jpg> <C:/Users/Marl
+ [9 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Twin1.jpg> <C:/Users/Marl
 on/Documents/GitHub/experiencias_LP/Twin2.jpg> <C:/Users/Marlon/Documents/GitHu
-b/experiencias_LP/Twin3.jpg>] <3.jpg, id=35, 225.84375pt x 153.57375pt>
+b/experiencias_LP/Twin3.jpg>] <3.jpg, id=45, 225.84375pt x 153.57375pt>
 File: 3.jpg Graphic file (type jpg)
  <use 3.jpg>
-Package pdftex.def Info: 3.jpg used on input line 105.
+Package pdftex.def Info: 3.jpg used on input line 132.
 (pdftex.def)             Requested size: 135.50728pt x 92.14494pt.
 
-<droid.jpg, id=36, 154.32657pt x 154.32657pt>
+<droid.jpg, id=46, 154.32657pt x 154.32657pt>
 File: droid.jpg Graphic file (type jpg)
  <use droid.jpg>
-Package pdftex.def Info: droid.jpg used on input line 105.
+Package pdftex.def Info: droid.jpg used on input line 132.
 (pdftex.def)             Requested size: 92.59663pt x 92.59663pt.
 
-<amigableU.jpg, id=37, 222.07968pt x 192.72pt>
+<amigableU.jpg, id=47, 222.07968pt x 192.72pt>
 File: amigableU.jpg Graphic file (type jpg)
  <use amigableU.jpg>
-Package pdftex.def Info: amigableU.jpg used on input line 105.
+Package pdftex.def Info: amigableU.jpg used on input line 132.
 (pdftex.def)             Requested size: 133.24883pt x 115.63287pt.
- [7 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/3.jpg> <C:/Users/Marlon/D
-ocuments/GitHub/experiencias_LP/droid.jpg> <C:/Users/Marlon/Documents/GitHub/ex
-periencias_LP/amigableU.jpg>] <PPrincipal.jpg, id=42, 188.20313pt x 248.42813pt
->
+ [10 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/3.jpg> <C:/Users/Marlon/
+Documents/GitHub/experiencias_LP/droid.jpg> <C:/Users/Marlon/Documents/GitHub/e
+xperiencias_LP/amigableU.jpg>] <PPrincipal.jpg, id=51, 188.20313pt x 248.42813p
+t>
 File: PPrincipal.jpg Graphic file (type jpg)
 
 <use PPrincipal.jpg>
-Package pdftex.def Info: PPrincipal.jpg used on input line 120.
+Package pdftex.def Info: PPrincipal.jpg used on input line 147.
 (pdftex.def)             Requested size: 131.74127pt x 173.8985pt.
- <create1.jpg, id=43, 188.20313pt x 248.42813pt>
+ <create1.jpg, id=52, 188.20313pt x 248.42813pt>
 File: create1.jpg Graphic file (type jpg)
 
 <use create1.jpg>
-Package pdftex.def Info: create1.jpg used on input line 127.
+Package pdftex.def Info: create1.jpg used on input line 154.
 (pdftex.def)             Requested size: 122.33057pt x 161.47636pt.
- <create2.jpg, id=44, 188.20313pt x 248.42813pt>
+ <create2.jpg, id=53, 188.20313pt x 248.42813pt>
 File: create2.jpg Graphic file (type jpg)
 
 <use create2.jpg>
-Package pdftex.def Info: create2.jpg used on input line 128.
+Package pdftex.def Info: create2.jpg used on input line 155.
 (pdftex.def)             Requested size: 122.33057pt x 161.47636pt.
- [8 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/PPrincipal.jpg> <C:/Users
-/Marlon/Documents/GitHub/experiencias_LP/create1.jpg> <C:/Users/Marlon/Document
-s/GitHub/experiencias_LP/create2.jpg>]
-<MenuTareas1.jpg, id=48, 188.20313pt x 248.42813pt>
+ [11 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/PPrincipal.jpg> <C:/User
+s/Marlon/Documents/GitHub/experiencias_LP/create1.jpg> <C:/Users/Marlon/Documen
+ts/GitHub/experiencias_LP/create2.jpg>]
+<MenuTareas1.jpg, id=57, 188.20313pt x 248.42813pt>
 File: MenuTareas1.jpg Graphic file (type jpg)
  <use MenuTareas1.jpg>
-Package pdftex.def Info: MenuTareas1.jpg used on input line 142.
+Package pdftex.def Info: MenuTareas1.jpg used on input line 169.
 (pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-<MenuTareas2.jpg, id=49, 188.20313pt x 248.42813pt>
+<MenuTareas2.jpg, id=58, 188.20313pt x 248.42813pt>
 File: MenuTareas2.jpg Graphic file (type jpg)
  <use MenuTareas2.jpg>
-Package pdftex.def Info: MenuTareas2.jpg used on input line 143.
+Package pdftex.def Info: MenuTareas2.jpg used on input line 170.
 (pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-[9 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/MenuTareas1.jpg> <C:/Users
-/Marlon/Documents/GitHub/experiencias_LP/MenuTareas2.jpg>]
+[12 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/MenuTareas1.jpg> <C:/User
+s/Marlon/Documents/GitHub/experiencias_LP/MenuTareas2.jpg>]
 Missing character: There is no Ã in font cmr10!
 Missing character: There is no ­ in font cmr10!
 
-<NuevaTarea1.jpg, id=53, 188.20313pt x 248.42813pt>
+<NuevaTarea1.jpg, id=62, 188.20313pt x 248.42813pt>
 File: NuevaTarea1.jpg Graphic file (type jpg)
  <use NuevaTarea1.jpg>
-Package pdftex.def Info: NuevaTarea1.jpg used on input line 156.
+Package pdftex.def Info: NuevaTarea1.jpg used on input line 183.
 (pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-<NuevaTarea2.jpg, id=54, 188.20313pt x 248.42813pt>
+<NuevaTarea2.jpg, id=63, 188.20313pt x 248.42813pt>
 File: NuevaTarea2.jpg Graphic file (type jpg)
  <use NuevaTarea2.jpg>
-Package pdftex.def Info: NuevaTarea2.jpg used on input line 157.
+Package pdftex.def Info: NuevaTarea2.jpg used on input line 184.
 (pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-[10 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea1.jpg> <C:/User
+[13 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea1.jpg> <C:/User
 s/Marlon/Documents/GitHub/experiencias_LP/NuevaTarea2.jpg>]
-<Programar1.jpg, id=58, 188.20313pt x 248.42813pt>
+<Programar1.jpg, id=68, 188.20313pt x 248.42813pt>
 File: Programar1.jpg Graphic file (type jpg)
  <use Programar1.jpg>
-Package pdftex.def Info: Programar1.jpg used on input line 167.
+Package pdftex.def Info: Programar1.jpg used on input line 194.
 (pdftex.def)             Requested size: 150.56268pt x 198.74277pt.
 
-[11 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Programar1.jpg>] [12]
-[13] <gameEnd.jpg, id=69, 263.48438pt x 225.84375pt>
+[14 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/Programar1.jpg>] [15]
+[16] <gameEnd.jpg, id=78, 263.48438pt x 225.84375pt>
 File: gameEnd.jpg Graphic file (type jpg)
  <use gameEnd.jpg>
-Package pdftex.def Info: gameEnd.jpg used on input line 201.
+Package pdftex.def Info: gameEnd.jpg used on input line 228.
 (pdftex.def)             Requested size: 131.74185pt x 112.92159pt.
 
-<logPython.png, id=70, 236.14986pt x 235.13197pt>
+<logPython.png, id=79, 236.14986pt x 235.13197pt>
 File: logPython.png Graphic file (type png)
  <use logPython.png>
-Package pdftex.def Info: logPython.png used on input line 203.
+Package pdftex.def Info: logPython.png used on input line 230.
 (pdftex.def)             Requested size: 47.22913pt x 47.02556pt.
- [14 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/gameEnd.jpg> <C:/Users/M
-arlon/Documents/GitHub/experiencias_LP/logPython.png>] [15]
-<newMain.jpg, id=78, 526.96875pt x 451.6875pt>
+ [17 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/gameEnd.jpg> <C:/Users/M
+arlon/Documents/GitHub/experiencias_LP/logPython.png>] [18]
+<newMain.jpg, id=87, 526.96875pt x 451.6875pt>
 File: newMain.jpg Graphic file (type jpg)
  <use newMain.jpg>
-Package pdftex.def Info: newMain.jpg used on input line 230.
+Package pdftex.def Info: newMain.jpg used on input line 257.
 (pdftex.def)             Requested size: 368.8756pt x 316.17908pt.
 
-Overfull \hbox (23.8756pt too wide) in paragraph at lines 230--231
+Overfull \hbox (23.8756pt too wide) in paragraph at lines 257--258
  [] 
  []
 
-[16 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/newMain.jpg>]
-<jugar1.jpg, id=82, 532.23843pt x 475.02469pt>
+[19 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/newMain.jpg>]
+<jugar1.jpg, id=92, 532.23843pt x 475.02469pt>
 File: jugar1.jpg Graphic file (type jpg)
  <use jugar1.jpg>
-Package pdftex.def Info: jugar1.jpg used on input line 246.
+Package pdftex.def Info: jugar1.jpg used on input line 273.
 (pdftex.def)             Requested size: 319.34552pt x 285.017pt.
- [17 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/jugar1.jpg>]
-<jugar2.jpg, id=86, 533.74406pt x 473.51906pt>
+ [20 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/jugar1.jpg>]
+<jugar2.jpg, id=96, 533.74406pt x 473.51906pt>
 File: jugar2.jpg Graphic file (type jpg)
  <use jugar2.jpg>
-Package pdftex.def Info: jugar2.jpg used on input line 256.
+Package pdftex.def Info: jugar2.jpg used on input line 283.
 (pdftex.def)             Requested size: 213.49384pt x 189.40425pt.
 
-<jugar3.jpg, id=87, 533.74406pt x 473.51906pt>
+<jugar3.jpg, id=97, 533.74406pt x 473.51906pt>
 File: jugar3.jpg Graphic file (type jpg)
  <use jugar3.jpg>
-Package pdftex.def Info: jugar3.jpg used on input line 263.
+Package pdftex.def Info: jugar3.jpg used on input line 290.
 (pdftex.def)             Requested size: 213.49384pt x 189.40425pt.
- [18 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/jugar2.jpg> <C:/Users/Ma
+ [21 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/jugar2.jpg> <C:/Users/Ma
 rlon/Documents/GitHub/experiencias_LP/jugar3.jpg>]
-<ayudaEle.jpg, id=91, 530.73282pt x 470.50781pt>
+<ayudaEle.jpg, id=101, 530.73282pt x 470.50781pt>
 File: ayudaEle.jpg Graphic file (type jpg)
  <use ayudaEle.jpg>
-Package pdftex.def Info: ayudaEle.jpg used on input line 272.
+Package pdftex.def Info: ayudaEle.jpg used on input line 299.
 (pdftex.def)             Requested size: 371.51044pt x 329.35321pt.
 
-Overfull \hbox (26.51044pt too wide) in paragraph at lines 272--273
+Overfull \hbox (26.51044pt too wide) in paragraph at lines 299--300
  [] 
  []
 
-[19 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/ayudaEle.jpg>] [20]
-<salir1.jpg, id=99, 532.23843pt x 473.51906pt>
+[22 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/ayudaEle.jpg>] [23]
+<salir1.jpg, id=108, 532.23843pt x 473.51906pt>
 File: salir1.jpg Graphic file (type jpg)
  <use salir1.jpg>
-Package pdftex.def Info: salir1.jpg used on input line 294.
+Package pdftex.def Info: salir1.jpg used on input line 321.
 (pdftex.def)             Requested size: 372.56435pt x 331.46106pt.
 
-Overfull \hbox (27.56435pt too wide) in paragraph at lines 294--295
+Overfull \hbox (27.56435pt too wide) in paragraph at lines 321--322
  [] 
  []
 
-[21 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/salir1.jpg>] [22]
-[23] (C:\Users\Marlon\Documents\GitHub\experiencias_LP\trabFinal.aux) )
+[24 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/salir1.jpg>] [25]
+[26] <mastermind.jpg, id=119, 400.3758pt x 411.4572pt>
+File: mastermind.jpg Graphic file (type jpg)
+ <use mastermind.jpg>
+Package pdftex.def Info: mastermind.jpg used on input line 362.
+(pdftex.def)             Requested size: 160.14748pt x 164.57996pt.
+
+<logHaskell.png, id=120, 649.42625pt x 601.24625pt>
+File: logHaskell.png Graphic file (type png)
+ <use logHaskell.png>
+Package pdftex.def Info: logHaskell.png used on input line 364.
+(pdftex.def)             Requested size: 129.88295pt x 120.24712pt.
+
+[27 <C:/Users/Marlon/Documents/GitHub/experiencias_LP/mastermind.jpg> <C:/Users
+/Marlon/Documents/GitHub/experiencias_LP/logHaskell.png>] [28]
+(C:\Users\Marlon\Documents\GitHub\experiencias_LP\trabFinal.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 16 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2420 strings out of 494045
- 31028 string characters out of 3148383
+ 2434 strings out of 494045
+ 31271 string characters out of 3148383
  94061 words of memory out of 3000000
- 5706 multiletter control sequences out of 15000+200000
- 7601 words of font info for 27 fonts, out of 3000000 for 9000
+ 5718 multiletter control sequences out of 15000+200000
+ 8216 words of font info for 29 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  27i,6n,35p,569b,399s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmb
@@ -355,9 +374,9 @@ x10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
 MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.
 9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on trabFinal.pdf (23 pages, 716250 bytes).
+Output written on trabFinal.pdf (28 pages, 822475 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
+ 147 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 

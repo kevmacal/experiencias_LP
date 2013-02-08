@@ -1,27 +1,36 @@
 \select@language {spanish}
-\contentsline {section}{\numberline {1}Android}{4}
-\contentsline {subsection}{\numberline {1.1}Introducci\'on}{5}
-\contentsline {subsection}{\numberline {1.2}Idea}{5}
-\contentsline {subsubsection}{\numberline {1.2.1}Problem\'atica}{5}
-\contentsline {subsubsection}{\numberline {1.2.2}Dise\~no}{6}
-\contentsline {subsection}{\numberline {1.3}My Twin}{7}
-\contentsline {subsubsection}{\numberline {1.3.1}Descripci\'on General}{7}
-\contentsline {subsection}{\numberline {1.4}Funcionamiento (Manual de Usuario)}{8}
-\contentsline {subsubsection}{\numberline {1.4.1}Pantalla Principal}{8}
-\contentsline {subsubsection}{\numberline {1.4.2}Creaci\'on de Twin}{8}
-\contentsline {subsubsection}{\numberline {1.4.3}Menu Tareas}{9}
-\contentsline {subsubsection}{\numberline {1.4.4}Nueva Tarea}{10}
-\contentsline {subsubsection}{\numberline {1.4.5}Programar}{11}
-\contentsline {subsection}{\numberline {1.5}Conclusiones}{12}
-\contentsline {subsubsection}{\numberline {1.5.1}Experiencias Generales}{12}
-\contentsline {subsubsection}{\numberline {1.5.2}Experiencias Personales}{12}
-\contentsline {section}{\numberline {2}Python}{14}
-\contentsline {subsection}{\numberline {2.1}Introducci\'on}{15}
-\contentsline {subsection}{\numberline {2.2}Manual del Juego}{16}
-\contentsline {subsubsection}{\numberline {2.2.1}Jugar}{17}
-\contentsline {subsubsection}{\numberline {2.2.2}Ayuda y Elementos}{19}
-\contentsline {subsubsection}{\numberline {2.2.3}Salir}{21}
-\contentsline {subsection}{\numberline {2.3}Estado Actual}{22}
-\contentsline {subsection}{\numberline {2.4}Conclusiones}{23}
-\contentsline {subsubsection}{\numberline {2.4.1}Experiencias Generales}{23}
-\contentsline {subsubsection}{\numberline {2.4.2}Experiencias Personales}{23}
+\contentsline {section}{\numberline {1}Github}{4}
+\contentsline {subsection}{\numberline {1.1}Conclusiones}{4}
+\contentsline {subsubsection}{\numberline {1.1.1}Experiencias Personales}{4}
+\contentsline {section}{\numberline {2}\textlatin {\LaTeX }{}}{6}
+\contentsline {subsection}{\numberline {2.1}Conclusiones}{6}
+\contentsline {subsubsection}{\numberline {2.1.1}Experiencias Personales}{6}
+\contentsline {section}{\numberline {3}Android}{7}
+\contentsline {subsection}{\numberline {3.1}Introducci\'on}{8}
+\contentsline {subsection}{\numberline {3.2}Idea}{8}
+\contentsline {subsubsection}{\numberline {3.2.1}Problem\'atica}{8}
+\contentsline {subsubsection}{\numberline {3.2.2}Dise\~no}{9}
+\contentsline {subsection}{\numberline {3.3}My Twin}{10}
+\contentsline {subsubsection}{\numberline {3.3.1}Descripci\'on General}{10}
+\contentsline {subsection}{\numberline {3.4}Funcionamiento (Manual de Usuario)}{11}
+\contentsline {subsubsection}{\numberline {3.4.1}Pantalla Principal}{11}
+\contentsline {subsubsection}{\numberline {3.4.2}Creaci\'on de Twin}{11}
+\contentsline {subsubsection}{\numberline {3.4.3}Menu Tareas}{12}
+\contentsline {subsubsection}{\numberline {3.4.4}Nueva Tarea}{13}
+\contentsline {subsubsection}{\numberline {3.4.5}Programar}{14}
+\contentsline {subsection}{\numberline {3.5}Conclusiones}{15}
+\contentsline {subsubsection}{\numberline {3.5.1}Experiencias Generales}{15}
+\contentsline {subsubsection}{\numberline {3.5.2}Experiencias Personales}{15}
+\contentsline {section}{\numberline {4}Python}{17}
+\contentsline {subsection}{\numberline {4.1}Introducci\'on}{18}
+\contentsline {subsection}{\numberline {4.2}Manual del Juego}{19}
+\contentsline {subsubsection}{\numberline {4.2.1}Jugar}{20}
+\contentsline {subsubsection}{\numberline {4.2.2}Ayuda y Elementos}{22}
+\contentsline {subsubsection}{\numberline {4.2.3}Salir}{24}
+\contentsline {subsection}{\numberline {4.3}Estado Actual}{25}
+\contentsline {subsection}{\numberline {4.4}Conclusiones}{26}
+\contentsline {subsubsection}{\numberline {4.4.1}Experiencias Generales}{26}
+\contentsline {subsubsection}{\numberline {4.4.2}Experiencias Personales}{26}
+\contentsline {section}{\numberline {5}Haskell}{27}
+\contentsline {subsection}{\numberline {5.1}Experiencias}{28}
+\contentsline {subsubsection}{\numberline {5.1.1}Experiencias Personales}{28}
